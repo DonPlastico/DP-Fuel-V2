@@ -17,7 +17,7 @@ Añadelo en tu server.cfg como DP-Fuel. (Si le cambias el nombre, dejara de func
 Configuración avanzada disponible en el archivo config.lua <br>
 
 <h1>Video</h1>
-<a href="https://youtu.be/O-VgfJeW1uM">Video del Script</a>
+<a href="https://youtu.be/7zjxENVK18U">Video del Script</a>
 
 <h1>Fotos</h1>
 
